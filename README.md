@@ -1,3 +1,5 @@
+> [!CAUTION]
+> MOVED! see <https://git.alifeee.net/webring-go/about/>
 # Webring-Go
 
 A [webring] server built with [Go]
